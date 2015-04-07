@@ -7,6 +7,7 @@ var BeginScene = cc.Scene.extend({
         var size = cc.director.getWinSize();
         var item = new cc.MenuItemFont("开始",this.begin,this);
         item.fontSize = 80;
+
         var menu = new cc.Menu(item);
         this.addChild(menu);
         menu.x = size.width/2;

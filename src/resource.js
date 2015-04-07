@@ -1,8 +1,9 @@
 var res = {
     bj:"res/bj.jpg",
 
-    hero:"res/AM.plist",
-    hero_png:"res/AM.png"
+    hero:"res/hero.plist",
+    hero_png:"res/hero.png"
+
 
 };
 var res_play = [
